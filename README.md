@@ -1,4 +1,4 @@
-# Tenzies Game
+<h1 align="center">Tenzies Game</h1>
 
 <div align="center">
   <h3>
