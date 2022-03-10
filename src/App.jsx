@@ -96,7 +96,7 @@ function App() {
           {diceElements}
         </section>
         <button
-          className="bg-purple-600 text-white px-8 py-3 rounded"
+          className="bg-purple-600 text-white m-8 px-8 py-3 rounded"
           onClick={rollDice}
         >
           {tenzies ? 'New Game' : 'Roll'}
